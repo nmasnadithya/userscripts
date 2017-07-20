@@ -7,14 +7,7 @@
 // @include 	  https://*.ogame.*/*
 // @include 	  http://*.ogame.*.*/*
 // @include 	  https://*.ogame.*.*/*
-// @grant 	    GM_deleteValue
-// @grant       GM_getValue
-// @grant       GM_setValue
-// @grant       GM_xmlhttpRequest
-// @grant       GM_log
-// @grant       GM_openInTab
-// @grant       GM_addStyle
-// @grant 	unsafeWindow
+// @grant 	none
 // @run-at        document-end
 // ==/UserScript==
 
