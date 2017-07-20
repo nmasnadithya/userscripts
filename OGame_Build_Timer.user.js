@@ -2,7 +2,7 @@
 // @name          OGame Build Timer
 // @namespace     http://alecspopa.com/
 // @description   Displays the time until you can build
-// @version 	  3.1.1
+// @version 	  3.1.2
 // @include 	  http://*.ogame.*/*
 // @include 	  https://*.ogame.*/*
 // @include 	  http://*.ogame.*.*/*
